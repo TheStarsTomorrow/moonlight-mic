@@ -1,11 +1,11 @@
 [submodule "moonlight-common-c"]
 	path = moonlight-common-c
-	url = https://github.com/JimothySnicket/moonlight-common-c.git
-	branch = moonlight-mic
+	url = https://github.com/TheStarsTomorrow/moonlight-common-c.git
+	branch = hd-haptics
 [submodule "moonlight-qt"]
 	path = moonlight-qt
-	url = https://github.com/JimothySnicket/moonlight-qt.git
-	branch = moonlight-mic
+	url = https://github.com/TheStarsTomorrow/moonlight-qt.git
+	branch = hd-haptics
 [submodule "Apollo"]
 	path = Apollo
 	url = https://github.com/JimothySnicket/Apollo.git
